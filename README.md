@@ -59,11 +59,13 @@ A estrutura principal do projeto é composta pelos seguintes arquivos e funciona
 
 ## Como Executar o Projeto
 
-1. Clone o repositório:
+-1. Clone o repositório:
    
-2. Instale as dependencias:
-  npm install
-3.Inicie o servidor de desenvolvimento:
-  npm run dev
-4.Acesse a aplicação no navegador em:
-  http://localhost:3000
+-2. Instale as dependencias:
+   npm install
+   
+-3. Inicie o servidor de desenvolvimento:
+   npm run dev
+   
+-4. Acesse a aplicação no navegador em:
+   http://localhost:3000
