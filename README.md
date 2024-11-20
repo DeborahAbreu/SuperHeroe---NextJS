@@ -59,7 +59,7 @@ A estrutura principal do projeto é composta pelos seguintes arquivos e funciona
 
 ## Como Executar o Projeto
 
--1. Clone o repositório:
+-1. Clone o repositório:https://github.com/DeborahAbreu/SuperHeroe---NextJS.git
    
 -2. Instale as dependencias:
    npm install
